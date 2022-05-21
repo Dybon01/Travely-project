@@ -1,4 +1,4 @@
-# Travely-project
+# Travely project
 
 Travely website project from Dev Ed course
 
